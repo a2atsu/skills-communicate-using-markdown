@@ -1,9 +1,10 @@
-- example 1
+- code exam
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
-- example 2
+
+- javascript exam
 ``` javascript
 var myVar = "Hello, world!";
 ```
